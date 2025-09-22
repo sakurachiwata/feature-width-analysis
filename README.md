@@ -22,14 +22,11 @@ It computes group statistics (mean, count, SEM) and creates a plot with error ba
 ```
 
 📂 feature-width-analysis
-├── data/                   # Sample CSV files
-│   └── sample.csv
-├── outputs/                # Generated plots
-│   └── voltage\_vs\_feature\_width.png
-├── analysis.py             # Main analysis script
-├── README.md               # Project overview
-└── requirements.txt        # Python dependencies
-
+│ 
+├── README.md                           # Project overview
+├── my_first_pandas.py                  # Main analysis script
+├── sample.csv                          # Sample CSV files
+└── voltage\_vs\_feature\_width.png     # Generated plots
 ````
 
 ## ▶️ How to Run
